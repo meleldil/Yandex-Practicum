@@ -75,5 +75,5 @@
 ## Используемые библиотеки
 - *pandas*
 - *numpy*
-- *matplotlib*
 - *scipy*
+- *matplotlib*
